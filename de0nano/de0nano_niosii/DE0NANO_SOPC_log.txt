@@ -1,0 +1,89 @@
+Altera SOPC Builder Version 12.00 Build 178
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2012.10.18 16:50:35 (*) mk_custom_sdk starting
+# 2012.10.18 16:50:35 (*) Reading project C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC.ptf.
+
+# 2012.10.18 16:50:35 (*) Finding all CPUs
+# 2012.10.18 16:50:35 (*) Finding all available components
+# 2012.10.18 16:50:35 (*) Reading C:/Git/de0nano/de0nano_niosii/.sopc_builder/install.ptf
+
+# 2012.10.18 16:50:35 (*) Found 63 components
+
+# 2012.10.18 16:50:38 (*) Finding all peripherals
+
+# 2012.10.18 16:50:38 (*) Finding software components
+
+# 2012.10.18 16:50:39 (*) (Legacy SDK Generation Skipped)
+# 2012.10.18 16:50:39 (*) (All TCL Script Generation Skipped)
+# 2012.10.18 16:50:39 (*) (No Libraries Built)
+# 2012.10.18 16:50:39 (*) (Contents Generation Skipped)
+# 2012.10.18 16:50:39 (*) mk_custom_sdk finishing
+# 2012.10.18 16:50:39 (*) Starting generation for system: DE0NANO_SOPC.
+
+.
+.
+.
+.
+
+# 2012.10.18 16:50:42 (*) Running Generator Program for cpu
+
+# 2012.10.18 16:51:28 (*) Starting Nios II generation
+# 2012.10.18 16:51:28 (*)   Checking for plaintext license.
+# 2012.10.18 16:52:42 (*)   Couldn't query license setup in Quartus directory c:/altera/12.0/quartus
+# 2012.10.18 16:52:42 (*)   Defaulting to contents of LM_LICENSE_FILE environment variable
+# 2012.10.18 16:52:42 (*)   LM_LICENSE_FILE environment variable is empty
+# 2012.10.18 16:52:42 (*)   Plaintext license not found.
+# 2012.10.18 16:52:42 (*)   Checking for encrypted license (non-evaluation).
+
+# 2012.10.18 16:53:05 (*)   Couldn't query license setup in Quartus directory c:/altera/12.0/quartus
+# 2012.10.18 16:53:05 (*)   Defaulting to contents of LM_LICENSE_FILE environment variable
+# 2012.10.18 16:53:05 (*)   LM_LICENSE_FILE environment variable is empty
+# 2012.10.18 16:53:05 (*)   Encrypted license not found.  Defaulting to OCP evaluation license (produces a time-limited SOF)
+# 2012.10.18 16:53:05 (*)   Getting CPU configuration settings
+# 2012.10.18 16:53:05 (*)   Elaborating CPU configuration settings
+
+# 2012.10.18 16:53:05 (*)   Creating all objects for CPU
+# 2012.10.18 16:53:05 (*)     Testbench
+# 2012.10.18 16:53:06 (*)     Instruction decoding
+# 2012.10.18 16:53:06 (*)       Instruction fields
+# 2012.10.18 16:53:07 (*)       Instruction decodes
+# 2012.10.18 16:53:11 (*)       Signals for RTL simulation waveforms
+# 2012.10.18 16:53:11 (*)       Instruction controls
+# 2012.10.18 16:53:11 (*)     Pipeline frontend
+# 2012.10.18 16:53:12 (*)     Pipeline backend
+# 2012.10.18 16:53:29 (*)   Generating HDL from CPU objects
+
+# 2012.10.18 16:53:44 (*)   Creating encrypted HDL
+# 2012.10.18 16:53:51 (*) Done Nios II generation
+
+# 2012.10.18 16:53:52 (*) Running Generator Program for jtag_uart
+
+# 2012.10.18 16:54:10 (*) Running Generator Program for onchip_memory2
+
+# 2012.10.18 16:54:21 (*) Running Generator Program for pio_led
+
+
+# 2012.10.18 16:54:31 (*) Making arbitration and system (top) modules.
+
+# 2012.10.18 16:54:46 (*) Generating Quartus symbol for top level: DE0NANO_SOPC
+
+# 2012.10.18 16:54:46 (*) Generating Symbol C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC.bsf
+
+# 2012.10.18 16:54:47 (*) Creating command-line system-generation script: C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC_generation_script
+
+# 2012.10.18 16:54:47 (*) Running setup for HDL simulator: modelsim
+
+
+# 2012.10.18 16:54:48 (*) Completed generation for system: DE0NANO_SOPC.
+# 2012.10.18 16:54:48 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC.ptf 
+  System HDL Model : C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC.v 
+  System Generation Script : C:/Git/de0nano/de0nano_niosii/DE0NANO_SOPC_generation_script 
+
+# 2012.10.18 16:54:48 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.
